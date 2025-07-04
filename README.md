@@ -1,1 +1,1 @@
-# ATM-Machine-made-using-Java
+This project is a console-based ATM simulation developed in Java. It mimics the basic functionalities of a real ATM machine, such as checking balance, depositing money, withdrawing money, and exiting the system. It uses object-oriented programming (OOP) concepts and is ideal for beginners learning Java.
